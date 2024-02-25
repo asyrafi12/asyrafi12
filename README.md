@@ -1,16 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+👋 Halo, saya Asyrafi! Saya adalah seorang programmer profesional dengan fokus pada pengembangan gamemode SA:MP menggunakan bahasa pemrograman PAWN. Selama beberapa tahun terakhir, saya telah membangun dan mengembangkan beberapa gamemode SA:MP yang populer menggunakan PAWN atau Pawno.<br><br>💻 Dengan menggunakan PAWN atau Pawno, saya dapat memanipulasi gameplay SA:MP dengan mudah dan menambahkan fitur-fitur yang menarik ke dalam gamemode saya. Selain itu, saya juga menulis kode yang efisien dan mudah dibaca, sehingga lainnya dapat memahami dan mengembangkan kode saya dengan mudah.<br><br>🤝 Karena saya sangat menyukai bekerja sama dengan orang lain, saya sering berkolaborasi dengan komunitas SA:MP dan beberapa tim pengembang lainnya. Saya percaya bahwa bekerja sama dapat membuat kita lebih baik dan lebih kreatif.<br><br>💡 Selain itu, saya juga senang mengembangkan ide-ide baru dan memecahkan masalah yang kompleks dengan menggunakan PAWN atau Pawno. Saya selalu mencoba untuk mengembangkan fitur-fitur yang baru dan menarik ke dalam gamemode saya, sambil mempertahankan kinerja dan stabilitas yang tinggi.<br><br>🌱 Saat ini, saya sedang belajar cara mengembangkan gamemode SA:MP yang lebih canggih menggunakan PAWN atau Pawno. Selain itu, saya juga mempelajari tentang kultur profesional di dunia teknologi, seperti etik, komunikasi, dan kewirausahaan.<br><br>⚡ Sebagai pengembang SA:MP, saya sangat menyukai bermain game, dan saya sering menggunakan musik menarik dan game menarik sebagai latar belakang di video-video saya. Selain itu, saya juga menyukai membaca buku, menonton film, dan mengikuti tren-trend terbaru di dunia teknologi.<br><br>💬 Jika kamu memiliki pertanyaan atau ingin tahu lebih banyak tentang saya atau konten saya, jangan ragu untuk bertanya! Saya selalu siap untuk berkomunikasi dengan penggemar saya. Saya juga sangat senang mendengar saran dan kritik dari Anda, sehingga saya dapat memaksimalkan kualitas konten saya dan membuat channel saya lebih baik.<br><br>🤝 Saya sangat senang dapat mengetahui lebih banyak tentang Anda! Jangan lupa untuk menonton video-video saya di YouTube dan bergabung dengan komunitas saya. Terima kasih! 🙌
 
-<!--
-**asyrafi12/asyrafi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sVmtE5Z5k8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asyrafi12_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asyrafi12_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQhGeNoSEdQZ9LlY72YmI_g) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asyrafi&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asyrafi&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asyrafi&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Asyrafi&icon=2&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
